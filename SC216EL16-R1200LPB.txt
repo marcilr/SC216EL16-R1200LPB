@@ -1,0 +1,58 @@
+SC216EL16-R1200LPB.txt
+Created Thu Feb 22 10:26:53 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Supermicro SC216E16-R1200LPB, DP / UP, 24x 2.5" hot-swap.
+SAS/SATA, 7x LP, 1200W Redundant (Gold Level)
+
+
+Fri Mar  2 09:56:42 AKST 2018
+=============================
+Had $305.00 USD shipping bill on paypal:
+
+From Feb 22, 2018 gmail:
+  MrRackables
+  Custom Systems Built to Order
+  Please pay your invoice
+  MrRackables/ Unix Surplus LLC would like
+  to remind you to pay invoice 114935B.
+  Amount due:  $305.00 USD
+  Due on receipt
+
+Details:
+  MrRackables
+  Custom Systems Built to Order
+
+  MrRackables/ Unix Surplus LLC
+  Justin Truong
+  3060 Raymond st.
+  Santa Clara, CA 95054
+  United States
+  Tax ID: 20-8411207
+
+  Phone: 877-864-9123x122
+  mr@itrecyclenow.com
+  http://stores.ebay.com/MrRackables?_rdc=1
+
+  Invoice #:114935B
+  Invoice date:Feb 16, 2018
+  Due date:Feb 16, 2018
+  Amount due:
+  $305.00
+
+Description:
+  114935B upgrade 2 systems to 2nd Day air with UPS
+  Order # 24767 QTY 2x Supermicro 2U X8DTU-F 24 bay
+  2x Xeon 6 Core Low Power FreeNas SAS2 SSD SATA III
+  price: $305.00 <=== (UPS 2nd day air)
+
+Put on fidelity
+
+
+Links
+=====
+Supermicro SC216E16-R1200LPB, DP / UP, 24x 2.5" hot-swap.
+SAS/SATA, 7x LP, 1200W Redundant (Gold Level)
+
+
