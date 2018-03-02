@@ -1,0 +1,14 @@
+links.txt
+Created Thu Feb 22 10:40:42 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+SC216EL16-R1200LPB related links
+
+
+Links
+=====
+2U SuperChassis 216
+SC216EL16-R1200LPB
+http://www.supermicro.com/products/chassis/2U/?chs=216
+
