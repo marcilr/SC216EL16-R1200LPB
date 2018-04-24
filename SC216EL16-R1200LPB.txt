@@ -7,6 +7,30 @@ Supermicro SC216E16-R1200LPB, DP / UP, 24x 2.5" hot-swap.
 SAS/SATA, 7x LP, 1200W Redundant (Gold Level)
 
 
+Specifications from action
+==========================
+Supermicro 2U X8DTU-F 24 bay 2x Xeon 6 Core Low Power FreeNas SAS2 SSD SATA III
+o 2U 24 Bay 2.5" SFF FreeNAS System
+o Chassis: Supermicro SC216EL1-R1200LPB
+o Motherboard: Supermicro X8DTU-F
+  - Integrated IPMI 2.0 with Dedicated Port
+o Supermicro X8 Server
+  - Integrated Dual 1GBE Ethernet LAN Port
+o CPU: 2x L5640 2.26Ghz Six Core Low Power consumption 60W
+o Supermicro X9 Server
+o 48GB RAM (12x 4GB DDR3 ECC REG)
+  NOTE: Looks like 6x 8GB = 48GB
+  8x IBM MT36KSF1G72PDZ-1G1MFG 1253
+  8GB 4RX8 - PC3L-8500R-7-11-H0     <=== Get 8GB Registered-ECC low voltage
+  Product of Puerto Rico DDAB2RE001 
+o LSI 9211 8i HBA f JBOD/ FREENAS
+o 24x 2.5" Drive Caddoes
+o 2x 800W Power Supply
+o Rail kit
+o 2x Full Height X16 PCI-E 2.0 slots via Riser Card
+o 30 Day Warranty
+
+
 Fri Mar  2 09:56:42 AKST 2018
 =============================
 Had $305.00 USD shipping bill on paypal:
