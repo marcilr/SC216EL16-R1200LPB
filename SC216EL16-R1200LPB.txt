@@ -20,9 +20,10 @@ o CPU: 2x L5640 2.26Ghz Six Core Low Power consumption 60W
 o Supermicro X9 Server
 o 48GB RAM (12x 4GB DDR3 ECC REG)
   NOTE: Looks like 6x 8GB = 48GB
-  8x IBM MT36KSF1G72PDZ-1G1MFG 1253
-  8GB 4RX8 - PC3L-8500R-7-11-H0     <=== Get 8GB Registered-ECC low voltage
-  Product of Puerto Rico DDAB2RE001 
+        8x IBM MT36KSF1G72PDZ-1G1MFG 1253
+        8GB 4RX8 - PC3L-8500R-7-11-H0
+        Product of Puerto Rico DDAB2RE001 
+        Google: 8GB Registered-ECC low voltage (very good)
 o LSI 9211 8i HBA f JBOD/ FREENAS
 o 24x 2.5" Drive Caddoes
 o 2x 800W Power Supply
